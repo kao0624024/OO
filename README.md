@@ -26,9 +26,9 @@ ___
 |:------|:-----:|------:|
 |   1   |   2   |   3   |
 
-'''python
+```python
 print("hello world")
-'''
+```
 
 ![NKUST](nkust.png "高雄科大")
 
