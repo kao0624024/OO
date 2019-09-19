@@ -25,6 +25,8 @@ ___
 |   1   |   2   |   3   |
 |:------|:-----:|------:|
 |   1   |   2   |   3   |
+| first | second|  third|
+|   1   |   2   |   3   |
 
 ```python
 print("hello world")
